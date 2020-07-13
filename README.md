@@ -16,7 +16,7 @@ You need `freeglut` and `SDL` libraries. Execute the `install.sh` to install the
     $ g++ Nivi.cpp -lGL -lGLU -lglut
     $ ./a.out
 
-### Versions
+### - Versions
 
 - The Project --> Nivi.cpp
 - The Project With A background Character --> Nivi-With StickMan Code.cpp
