@@ -12,6 +12,11 @@ You need `freeglut` and `SDL` libraries. Execute the `install.sh` to install the
 ### - Usage
 
     $ git clone https://github.com/nivedaparam/CG-Project.git 
-    $ cd CG-Project
+    $ cd CG-master/CG
     $ g++ Nivi.cpp -lGL -lGLU -lglut
     $ ./a.out
+
+### Versions
+
+- The Project --> Nivi.cpp
+- The Project With A background Character --> Nivi-With StickMan Code.cpp
